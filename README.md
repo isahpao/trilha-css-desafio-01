@@ -45,56 +45,19 @@ Para testar o projeto localmente, siga os passos abaixo:
 ### **1️⃣ Clone o repositório**
 
 ```bash
-bash
-CopiarEditar
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/isahpao/trilha-css-desafio-01
 
 ```
 
 ### **2️⃣ Acesse a pasta do projeto**
 
 ```bash
-bash
-CopiarEditar
-cd nome-do-projeto
+
+cd trilha-css-desafio-01
 
 ```
 
-### **3️⃣ Instale as dependências**
+### **3️⃣ Execute o projeto**
 
-```bash
-bash
-CopiarEditar
-npm install
-
-```
-
-ou
-
-```bash
-bash
-CopiarEditar
-yarn install
-
-```
-
-### **4️⃣ Execute o projeto**
-
-```bash
-bash
-CopiarEditar
-npm start
-
-```
-
-ou
-
-```bash
-bash
-CopiarEditar
-yarn start
-
-```
-
-Agora, basta abrir o navegador e acessar `http://localhost:3000/`.
-
+Abra o arquivo index.html diretamente no navegador
+ou utilize uma extensão como o Live Server no VS Code para uma visualização mais dinâmica.
